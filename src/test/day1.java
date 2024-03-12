@@ -12,6 +12,9 @@ public class day1 {
 		System.out.println("hello");
 		System.out.println("kelo");
 		System.out.println("bolo");
+		
+		System.out.println("thalo");
+		System.out.println("malo");
 	}
 	
 	@Test(groups = {"Smoke"})

@@ -6,6 +6,7 @@ public class ZeroClass {
 	
 	public void runThis() {
 		System.out.println("I am coming now");
+		System.out.println("I am going now");
 	}
 	
 	@BeforeMethod
