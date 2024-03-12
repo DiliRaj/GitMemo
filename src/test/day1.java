@@ -10,6 +10,8 @@ public class day1 {
 	@Test(dependsOnMethods = {"zeeLoan"})
 	public void homeLoan() {
 		System.out.println("hello");
+		System.out.println("kelo");
+		System.out.println("bolo");
 	}
 	
 	@Test(groups = {"Smoke"})
