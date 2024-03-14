@@ -13,5 +13,9 @@ public class ZeroClass {
 	public void beforeRun() {
 		System.out.println("I will run before");
 	}
+	
+	public void beforeRunn() {
+		System.out.println("I will run before");
+	}
 
 }
