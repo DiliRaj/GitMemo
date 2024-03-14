@@ -20,4 +20,8 @@ public class SecondClass extends ThirdClass {
 		return a;
 	}
 
+	public int acrement() {
+		a = a-1;
+		return a;
+	}
 }
